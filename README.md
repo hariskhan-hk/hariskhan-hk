@@ -97,9 +97,6 @@
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
   </a>
-  <a href="https://www.microchip.com/en-us/product/ATmega162" target="_blank" rel="noreferrer">
-    <img src=" https://en.m.wikipedia.org/wiki/File:Avr_logo.svg" alt="atmega162" width="40" height="40"/>
-  </a>
 </p>
 
 <p>
