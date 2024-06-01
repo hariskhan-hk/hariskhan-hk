@@ -112,16 +112,21 @@
   </a>
 </p>
 
-<h2 align="left">🔗 Connect With Me:</h2>
-<p align="center">
+<h2 align="left">Connect with me:</h2>
+<p align="left">
   <a href="https://twitter.com/hk____kk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk____kk" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
+    Twitter
   </a>
+  •
   <a href="https://linkedin.com/in/haris-khan26" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-khan26" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
+    LinkedIn
   </a>
+  •
   <a href="https://medium.com/@hariskhan_hk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariskhan_hk" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
+    Medium
   </a>
 </p>
 
