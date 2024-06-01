@@ -135,15 +135,9 @@
 </p>
 <hr>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <div style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" />
-  </div>
-  <div style="margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="margin-right: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" />
 </div>
 
