@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Data+Scientist!" alt="Typing SVG" />
   </a>
 </h2>
-
+ 
 <p align="center">
   <em>
     Hello, I'm Haris, an undergraduate Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
