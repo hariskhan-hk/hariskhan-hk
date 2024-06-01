@@ -12,7 +12,7 @@
 </p>
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
-<h2 align="center">What I Can Do</h2>
+<h2 align="center">What I Can Do 💬</h2>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
   <li>Data Visualization using MS Excel, Power BI, Matplotlib, Seaborn</li>
