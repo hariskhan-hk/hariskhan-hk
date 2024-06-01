@@ -10,8 +10,9 @@
     Hello, I'm Haris, an undergraduate Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
   </em>
 </p>
+<p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
-<h3 align="center">What I Can Do</h3>
+<h3 align="left">What I Can Do</h3>
 <hr>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
@@ -33,9 +34,7 @@
   <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
 </ul>
 
-<p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
-
-<h3 align="center">Languages and Tools</h3>
+<h3 align="left">Languages and Tools</h3>
 <hr>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -115,7 +114,7 @@
   </a>
 </p>
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 <hr>
 <p align="center">
   <a href="https://twitter.com/hk____kk" target="_blank">
