@@ -114,21 +114,26 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a href="https://twitter.com/hk____kk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30" />
-    Twitter
-  </a>
-  •
-  <a href="https://linkedin.com/in/haris-khan26" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
-    LinkedIn
-  </a>
-  •
-  <a href="https://medium.com/@hariskhan_hk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="30" />
-    Medium
-  </a>
+  <p>
+    <a href="https://twitter.com/hk____kk" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" />
+      Twitter
+    </a>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/haris-khan26" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
+      LinkedIn
+    </a>
+  </p>
+  <p>
+    <a href="https://medium.com/@hariskhan_hk" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20" width="20" />
+      Medium
+    </a>
+  </p>
 </p>
+<hr>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
