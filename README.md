@@ -33,7 +33,7 @@
   <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
 </ul>
 
-<h2 align="center">Languages and Tools</h2>
+<h2 align="center">💻Languages and Tools</h2>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
