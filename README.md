@@ -135,10 +135,10 @@
 </p>
 <hr>
 
-<div align="center" style="padding: 20px; background-color: #f5f5f5; border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" style="width: 250px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="width: 250px; height: auto; margin-right: 20px; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" style="width: 250px; height: auto; border-radius: 10px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+<div align="center" style="padding: 20px; background-color: #e6e6e6; border-radius: 20px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" style="width: 300px; height: auto; margin-right: 20px; border-radius: 15px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="width: 300px; height: auto; margin-right: 20px; border-radius: 15px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" style="width: 300px; height: auto; border-radius: 15px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
 </div>
 
 
