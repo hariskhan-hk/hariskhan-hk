@@ -115,8 +115,12 @@
 </p>
 
 <h3 align="left">Connect With Me</h3>
+   * :email:[Email Me](mhariskhan.hk26@gmail.com)
+   * :computer:[LinkedIn](https://linkedin.com/in/haris-khan26)
+   * :round_pushpin:[Twitter](https://twitter.com/hk____kk)
+   * 📍: [Medium](https://medium.com/@hariskhan_hk)
 <hr>
-<p align="left">
+<!-- <p align="left">
   <a href="https://twitter.com/hk____kk" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk____kk" height="30" width="40" />
   </a>
@@ -127,7 +131,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariskhan_hk" height="30" width="40" />
   </a>
 </p>
-
+ -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
 </p>
