@@ -32,9 +32,9 @@
   <li>Software Testing through Cypress, Selenium</li>
   <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
 </ul>
-<hr>
+
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
-<hr>
+
 <h3 align="center">Languages and Tools</h3>
 <hr>
 <p align="center"> 
@@ -114,7 +114,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
-<hr>
+
 <h3 align="center">Connect With Me</h3>
 <hr>
 <p align="center">
@@ -128,7 +128,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariskhan_hk" height="30" width="40" />
   </a>
 </p>
-<hr>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
 </p>
