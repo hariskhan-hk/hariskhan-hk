@@ -135,14 +135,15 @@
 </p>
 <hr>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
-</p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" />
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" />
+  </div>
+  <div style="margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" />
+  </div>
+</div>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" />
-</p>
