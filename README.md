@@ -111,27 +111,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
-
-<h2 align="left">Connect With Me:</h2>
-<p align="left">
-  <p>
-    <a href="https://twitter.com/hk____kk" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="20" />
-      Twitter
-    </a>
-  </p>
-  <p>
-    <a href="https://linkedin.com/in/haris-khan26" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" />
-      LinkedIn
-    </a>
-  </p>
-  <p>
-    <a href="https://medium.com/@hariskhan_hk" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="20" width="20" />
-      Medium
-    </a>
-  </p>
 </p>
 <hr>
 
