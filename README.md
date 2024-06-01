@@ -11,6 +11,27 @@
   </em>
 </p>
 
+<h3 align="left">What I Can Do:</h3>
+<ul>
+  <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
+  <li>Data Visualization using MS Excel, Power BI, Matplotlib, Seaborn</li>
+  <li>Machine Learning using Scikit-learn, TensorFlow, PyTorch, including models such as:
+    <ul>
+      <li>Linear Regression</li>
+      <li>Logistic Regression</li>
+      <li>K-Means Clustering</li>
+      <li>Decision Trees</li>
+    </ul>
+  </li>
+  <li>Object Detection with YOLOv7</li>
+  <li>Back-end development using Django</li>
+  <li>Front-end development using HTML, CSS</li>
+  <li>Non-coded development using WordPress</li>
+  <li>Solving Data Structure and Algorithm Questions using Python</li>
+  <li>Software Testing through Cypress, Selenium</li>
+  <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
+</ul>
+
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
 <h3 align="left">Connect with me:</h3>
@@ -96,6 +117,12 @@
   </a>
   <a href="https://www.scipy.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
 
