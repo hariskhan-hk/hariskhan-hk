@@ -12,7 +12,7 @@
 </p>
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
-<h1 align="left">What I Can Do</h1>
+<h1 align="center">What I Can Do</h1>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
   <li>Data Visualization using MS Excel, Power BI, Matplotlib, Seaborn</li>
@@ -33,7 +33,7 @@
   <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
 </ul>
 
-<h1 align="left">Languages and Tools</h1>
+<h1 align="center">Languages and Tools</h1>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -112,7 +112,7 @@
   </a>
 </p>
 
-<h1 align="left">Connect With Me</h1>
+<h1 align="center">Connect With Me</h1>
 <p align="left">
   <a href="https://twitter.com/hk____kk" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk____kk" height="30" width="40" />
