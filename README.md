@@ -10,7 +10,6 @@
     Hello, I'm Haris, an undergraduate Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
   </em>
 </p>
-<p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
 <h2 align="left">💼 What I Can Do:</h2>
 <ul>
@@ -30,7 +29,7 @@
   <li>Non-coded development using WordPress</li>
   <li>Solving Data Structure and Algorithm Questions using Python</li>
   <li>Software Testing through Cypress, Selenium</li>
-  <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
+  <li>Crafting Software Diagrams (UML, ERD, DFD) </li>
 </ul>
 
 <h2 align="left">💻 Languages & Tools:</h2>
