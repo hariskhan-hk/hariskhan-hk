@@ -11,7 +11,7 @@
   </em>
 </p>
 
-<h3 align="center">What I Can Do:</h3>
+<h3 align="center">What I Can Do</h3>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
   <li>Data Visualization using MS Excel, Power BI, Matplotlib, Seaborn</li>
@@ -34,20 +34,7 @@
 
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/hk____kk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk____kk" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/haris-khan26" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-khan26" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@hariskhan_hk" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariskhan_hk" height="30" width="40" />
-  </a>
-</p>
-
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -123,6 +110,19 @@
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
+  </a>
+</p>
+
+<h3 align="center">Connect With Me</h3>
+<p align="left">
+  <a href="https://twitter.com/hk____kk" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk____kk" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/haris-khan26" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haris-khan26" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@hariskhan_hk" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hariskhan_hk" height="30" width="40" />
   </a>
 </p>
 
