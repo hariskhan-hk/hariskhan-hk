@@ -12,7 +12,7 @@
 </p>
 <p align="center">📫 How to reach me: <strong>mhariskhan.hk26@gmail.com</strong></p>
 
-<h3 align="left">What I Can Do</h3>
+<h1 align="left">What I Can Do</h1>
 <hr>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
@@ -34,7 +34,7 @@
   <li>Crafting Software Diagrams (UML, ERD, DFD) (</li>
 </ul>
 
-<h3 align="left">Languages and Tools</h3>
+<h1 align="left">Languages and Tools</h1>
 <hr>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
@@ -114,7 +114,7 @@
   </a>
 </p>
 
-<h3 align="left">Connect With Me</h3>
+<h1 align="left">Connect With Me</h1>
 <hr>
 <p align="left">
   <a href="https://twitter.com/hk____kk" target="_blank">
