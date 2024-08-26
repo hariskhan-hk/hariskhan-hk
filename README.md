@@ -21,7 +21,7 @@
       <li>Logistic Regression</li>
       <li>K-Means Clustering</li>
       <li>Decision Trees</li>
-      <li>Random Forests</li>
+      <li>Random Forest</li>
     </ul>
   </li>
   <li>Object Detection with YOLOv7</li>
