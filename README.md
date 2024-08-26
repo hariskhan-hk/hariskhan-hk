@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Muhammad Haris Khan👋</h1>
+"<h1 align="center">Hi! I'm Muhammad Haris Khan👋</h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Data+Scientist!" alt="Typing SVG" />
@@ -23,20 +23,14 @@
       <li>Decision Trees</li>
     </ul>
   </li>
-  <li>Statistical Analysis using Minitab, including:
-    <ul>
-      <li>Regression Analysis</li>
-      <li>ANOVA</li>
-      <li>Control Charts</li>
-    </ul>
-  </li>
   <li>Object Detection with YOLOv7</li>
+  <li>Statistical Analysis using Minitab</li>
   <li>Back-end development using Django</li>
   <li>Front-end development using HTML, CSS</li>
   <li>Non-coded development using WordPress</li>
   <li>Solving Data Structure and Algorithm Questions using Python</li>
   <li>Software Testing through Cypress, Selenium</li>
-  <li>Crafting Software Diagrams (UML, ERD, DFD)</li>
+  <li>Crafting Software Diagrams (UML, ERD, DFD) </li>
 </ul>
 
 <h2 align="left">💻 Languages & Tools:</h2>
@@ -114,22 +108,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="Pycharm" width="40" height="40"/>
-  </a>
-  <a href="https://www.minitab.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/7/74/Minitab_logo.svg" alt="minitab" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   </a>
 </p>
+</p>
+<hr>
 
-<h2 align="left">🔗 Connect with me:</h2>
-<p align="left">
-  <a href="https://www.linkedin.com/in/hariskhan9945/" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Haris Khan" height="30" width="40" />
-  </a>
-  <a href="https://github.com/hariskhan998" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Haris Khan" height="30" width="40" />
-  </a>
-  <a href="mailto:hariskhancs998@gmail.com" target="blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Haris Khan" height="30" width="40" />
-  </a>
-</p>
+<div align="center" style="padding: 30px; background-color: #f0f0f0; border-radius: 25px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" style="width: 380px; height: auto; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+</div>
+
+
+"
