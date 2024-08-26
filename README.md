@@ -1,4 +1,4 @@
-"<h1 align="center">Hi! I'm Muhammad Haris Khan👋</h1>
+<h1 align="center">Hi! I'm Muhammad Haris Khan👋</h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Data+Scientist!" alt="Typing SVG" />
@@ -119,6 +119,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&" alt="hariskhan-hk" style="width: 380px; height: auto; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
 </div>
-
-
-"
