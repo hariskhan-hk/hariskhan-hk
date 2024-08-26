@@ -14,7 +14,7 @@
 <h2 align="left">💼 What I Can Do:</h2>
 <ul>
   <li>Data Analysis using MS Excel, Python (Numpy, Pandas), SQL</li>
-  <li>Data Visualization using MS Excel, Power BI, Matplotlib, Seaborn</li>
+  <li>Data Visualization using MS Excel, Power BI, Python (Matplotlib, Seaborn)</li>
   <li>Machine Learning using Scikit-learn, TensorFlow, PyTorch, including models such as:
     <ul>
       <li>Linear Regression</li>
