@@ -125,9 +125,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en&count_private=true" 
        alt="GitHub Stats" 
        style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
-       
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk" 
-       alt="GitHub Streak Stats" 
-       style="width: 380px; height: auto; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariskhan-hk&theme=default&hide_border=true" 
+     alt="GitHub Streak Stats" 
+     style="width: 380px; height: auto; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
