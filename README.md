@@ -116,12 +116,6 @@
 <hr>
 
 <div align="center" style="padding: 30px; background-color: #f0f0f0; border-radius: 25px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact&langs_count=8&hide=css,html" 
-       alt="Most Used Languages" 
-       style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
-       
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en&count_private=true" 
-       alt="GitHub Stats" 
-       style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hariskhan-hk&show_icons=true&locale=en&layout=compact" alt="hariskhan-hk" style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariskhan-hk&show_icons=true&locale=en" alt="hariskhan-hk" style="width: 380px; height: auto; margin-right: 30px; border-radius: 20px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);" />
+</div>
