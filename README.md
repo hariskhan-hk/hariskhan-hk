@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    Hello, I'm Haris, an undergraduate Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
+    Hello, I'm Haris, a Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
   </em>
 </p>
 
