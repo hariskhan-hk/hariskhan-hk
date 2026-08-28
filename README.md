@@ -24,7 +24,7 @@
       <li>Random Forest</li>
     </ul>
   </li>
-  <li>Object Detection with YOLOv7</li>
+  <li>Object Detection with different YOLO models (YOLO v7, YOLO NAS, YOLO v11)</li>
   <li>Statistical Analysis using Minitab</li>
   <li>Back-end development using Django</li>
   <li>Front-end development using HTML, CSS</li>
