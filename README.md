@@ -1,13 +1,13 @@
 <h1 align="center">Hey! I'm Muhammad Haris Khan👋</h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=AI+Engineer+and+Data+Scientist!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+AI+Engineer+and+Data+Scientist!" alt="Typing SVG" />
   </a>
 </h2>
 
 <p align="center">
   <em>
-    Hello, I'm Haris, a Computer Systems Engineer and an aspiring Data Scientist with a strong foundation in Python programming. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
+    Hi, I'm Haris – currently pursuing an MS in Artificial Intelligence, and a recent Computer Systems Engineering graduate passionate about turning data into actionable insights and building AI-powered solutions. I'm passionate about applying my skills to real-world challenges and creating value through technology. If you share my passion for technology and innovation, let's connect and explore ways we can work together to create value through technology.
   </em>
 </p>
 
