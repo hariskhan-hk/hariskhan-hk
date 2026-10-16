@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Muhammad Haris Khan👋</h1>
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=An+Aspiring+Data+Scientist!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=29B6C4&width=435&lines=AI+Engineer+and+Data+Scientist!" alt="Typing SVG" />
   </a>
 </h2>
 
